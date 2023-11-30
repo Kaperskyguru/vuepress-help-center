@@ -1,0 +1,23 @@
+{
+  "name": "contentre-help-center",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-search": "^1.9.10",
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "timeago.js": "^4.0.2"
+  }
+}
