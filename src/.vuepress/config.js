@@ -128,6 +128,7 @@ module.exports = {
    */
   plugins: [
     "@vuepress/plugin-back-to-top",
+    "@vuepress/last-updated",
     "@vuepress/plugin-medium-zoom",
     [
       "@vuepress/search",
